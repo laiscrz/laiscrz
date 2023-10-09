@@ -1,15 +1,16 @@
-### Olá! Eu sou a Lais Cruz👋
+## Olá! Eu sou a Lais Cruz👋
 
 - 🎓 Graduanda em Análise e Desenvolvimento de Sistemas na faculdade FIAP.
 - 🌱 Apaixonada por tecnologia e aprendizado constante.
 - 🤔 Sempre em busca de novos desafios de programação e resolução de problemas técnicos.
 - 😄 Pronomes: ela/dela
 
-<div>
-  <a href="https://github.com/laiscrz">
-  <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=laiscrz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiscrz&layout=compact&langs_count=16&theme=dracula">
+##
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Laiscrz&show_icons=true&count_private=true&hide_border=true&title_color=C71585&icon_color=C71585&text_color=c9d1d9&bg_color=0d1117" alt="Lais Cruz github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laiscrz&layout=compact&hide_border=true&title_color=C71585&text_color=FFFFFF&bg_color=0d1117" />
 </div>
+
  <div style="display: inline_block"><br>
   <img align="center" alt="Lais-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lais-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
