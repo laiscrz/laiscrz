@@ -1,14 +1,17 @@
-## Olá! Eu sou a Lais Cruz👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EF4566&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EF4566&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lais+Cruz;I'm+19+years+old;I+from+Brasil,+SP;I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+##
 
 - 🎓 Graduanda em Análise e Desenvolvimento de Sistemas na faculdade FIAP.
 - 🌱 Apaixonada por tecnologia e aprendizado constante.
-- 🤔 Sempre em busca de novos desafios de programação e resolução de problemas técnicos.
-- 😄 Pronomes: ela/dela
+- 🤔 Sempre em busca de novos desafios de programação para aprimorar minhas habilidades.
+- 😄 Pronomes: ela/dela.
 
 ##
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Laiscrz&show_icons=true&count_private=true&hide_border=true&title_color=C71585&icon_color=C71585&text_color=c9d1d9&bg_color=0d1117" alt="Lais Cruz github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laiscrz&layout=compact&hide_border=true&title_color=C71585&text_color=FFFFFF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Laiscrz&show_icons=true&count_private=true&hide_border=true&title_color=EF4566&icon_color=EF4566&text_color=c9d1d9&bg_color=0d1117" alt="Lais Cruz github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laiscrz&layout=compact&hide_border=true&title_color=EF4566&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
  <div style="display: inline_block"><br>
@@ -28,3 +31,7 @@
   <a href="https://www.linkedin.com/in/laiscrz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+##
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EF4566&height=120&section=footer"/>
