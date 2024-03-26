@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EF4566&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EF4566&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lais+Cruz;I'm+19+years+old;I+from+Brasil,+SP;I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EF4566&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lais+Cruz;I'm+20+years+old;I+from+Brasil,+SP;I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 
@@ -45,6 +45,8 @@ Olá! Meu nome é Lais, sou graduanda em Análise e Desenvolvimento de Sistemas 
 ![Csharp](https://img.shields.io/badge/-Csharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![ReactNative](https://img.shields.io/badge/-ReactNative-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 
 
 ##
