@@ -54,10 +54,10 @@ Olá! Meu nome é Lais, sou graduanda em Análise e Desenvolvimento de Sistemas 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-🧪-green?style=for-the-badge)
 ![CSharp](https://img.shields.io/badge/CSharp-4CAF50?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
 
 ##
 
