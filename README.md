@@ -8,7 +8,7 @@
 
 Hello! My name is Lais, and I am an undergraduate student in Systems Analysis and Development at FIAP. I am passionate about technology and always seeking new programming challenges to enhance my skills.
 
-## 📚 Interesses
+## 📚 Areas of Interest
  - Software Development
  - Machine Learning
  - Data Science
