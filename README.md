@@ -1,24 +1,24 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EF4566&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00F6&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EF4566&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lais+Cruz;I'm+20+years+old;I+from+Brasil,+SP;I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00F6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lais+Cruz;I'm+20+years+old;I+from+Brasil,+SP;I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 
-# 👩🏻‍💻 Sobre Mim 
+# 👩🏻‍💻 About Me
 
-Olá! Meu nome é Lais, sou graduanda em Análise e Desenvolvimento de Sistemas na Faculdade FIAP. Sou apaixonada por tecnologia e estou sempre em busca de novos desafios de programação para aprimorar minhas habilidades.
+Hello! My name is Lais, and I am an undergraduate student in Systems Analysis and Development at FIAP. I am passionate about technology and always seeking new programming challenges to enhance my skills.
 
 ## 📚 Interesses
- - Desenvolvimento de Software
- - Tecnologias Web
- - Aprendizado de Máquina
- - Ciência de Dados
+ - Software Development
+ - Machine Learning
+ - Data Science
+ - Artificial Intelligence
 
 
 ## ⚡ Git Stats 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Laiscrz&show_icons=true&count_private=true&hide_border=true&title_color=EF4566&icon_color=EF4566&text_color=c9d1d9&bg_color=0d1117" alt="Lais Cruz github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laiscrz&layout=compact&hide_border=true&title_color=EF4566&text_color=FFFFFF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Laiscrz&show_icons=true&count_private=true&hide_border=true&title_color=FF00F6&icon_color=FF00F6&text_color=c9d1d9&bg_color=0d1117" alt="Lais Cruz github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laiscrz&layout=compact&hide_border=true&title_color=FF00F6&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
  <div align="center"> 
@@ -62,4 +62,4 @@ Olá! Meu nome é Lais, sou graduanda em Análise e Desenvolvimento de Sistemas 
 
 ##
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EF4566&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00F6&height=120&section=footer"/>
