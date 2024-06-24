@@ -46,6 +46,7 @@ Hello! My name is Lais, and I am an undergraduate student in Systems Analysis an
 ![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-📐-blue?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
 ### Studying in this moment:
