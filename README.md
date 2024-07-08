@@ -47,6 +47,7 @@ Hello! My name is Lais, and I am an undergraduate student in Systems Analysis an
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-📐-blue?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Microsoft Windows](https://img.shields.io/badge/Microsoft_Windows-🪟-0078D6?style=for-the-badge)
 
 
 ### Studying in this moment:
@@ -61,7 +62,7 @@ Hello! My name is Lais, and I am an undergraduate student in Systems Analysis an
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-🪟-0089D6?style=for-the-badge)
 
 ##
 
