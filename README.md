@@ -66,6 +66,8 @@ Hello! My name is Lais, and I am an undergraduate student in Systems Analysis an
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-🪟-0089D6?style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-📈-yellow?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 ##
