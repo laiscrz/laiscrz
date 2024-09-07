@@ -69,6 +69,7 @@ Hello! My name is Lais, and I am an undergraduate student in Systems Analysis an
 ![Power BI](https://img.shields.io/badge/Power_BI-📈-yellow?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C%2B%2B-F34B7F?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
