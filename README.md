@@ -64,7 +64,7 @@ Hello! My name is Lais, and I am an undergraduate student in Systems Analysis an
 
 
 
-### 📚 Studying in this moment:
+### 🌟 Studying in this moment:
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSharp](https://img.shields.io/badge/CSharp-4CAF50?style=for-the-badge&logo=csharp&logoColor=white)
