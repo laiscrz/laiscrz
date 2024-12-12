@@ -6,6 +6,8 @@
 
 # 👩🏻‍💻 About Me
 
+[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
+
 Hello! My name is Lais, and I am an undergraduate student in Systems Analysis and Development at FIAP. I am passionate about technology, especially in the areas of data and artificial intelligence. Additionally, I have experience in software development and am always seeking new programming challenges to enhance my skills.
 
 ## 📚 Areas of Interest
@@ -71,6 +73,7 @@ Hello! My name is Lais, and I am an undergraduate student in Systems Analysis an
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-🪟-0089D6?style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-F34B7F?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
