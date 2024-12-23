@@ -8,6 +8,13 @@
 
 Hello! My name is Lais, and I am an undergraduate student in Systems Analysis and Development at FIAP. I am passionate about technology, especially in the areas of data and artificial intelligence. Additionally, I have experience in software development and am always seeking new programming challenges to enhance my skills.
 
+
+ <div align="center"> 
+  <a href="https://instagram.com/laismariae" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href = "mailto:cmp.1a.lais.albino2003@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/laiscrz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+
 ## 📚 Areas of Interest
  - Software Development
  - Machine Learning
@@ -20,14 +27,8 @@ Hello! My name is Lais, and I am an undergraduate student in Systems Analysis an
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Laiscrz&show_icons=true&count_private=true&hide_border=true&title_color=FF00F6&icon_color=FF00F6&text_color=c9d1d9&bg_color=0d1117" alt="Lais Cruz github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laiscrz&layout=compact&hide_border=true&title_color=FF00F6&text_color=FFFFFF&bg_color=0d1117" />
+   <a href="https://github.com/laiscrz/laiscrz"><img alt="Lais Cruz's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=laiscrz&bg_color=RRGGBBAA&title_color=FF00F6&color=FF00F6&line=FF00F6&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
 </div>
-
- <div align="center"> 
-  <a href="https://instagram.com/laismariae" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "mailto:cmp.1a.lais.albino2003@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/laiscrz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
-
 
 ---
 
@@ -90,6 +91,7 @@ Hello! My name is Lais, and I am an undergraduate student in Systems Analysis an
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-F34B7F?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
 
 ##
 
