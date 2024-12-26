@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00F6&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00F6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lais+Cruz;I'm+20+years+old;I+from+Brasil,+SP;I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00F6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Laís+Cruz;I'm+20+years+old;I+from+Brasil,+SP;I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 
@@ -9,18 +9,19 @@
 Hello! My name is Lais, and I am an undergraduate student in Systems Analysis and Development at FIAP. I am passionate about technology, especially in the areas of data and artificial intelligence. Additionally, I have experience in software development and am always seeking new programming challenges to enhance my skills.
 
 
- <div align="center"> 
-  <a href="https://instagram.com/laismariae" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "mailto:cmp.1a.lais.albino2003@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/laiscrz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+<div align="center"> 
+  <div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 20px;">
+    <img src="https://user-images.githubusercontent.com/74038190/243078871-08fa9f5b-dcb7-4f5e-8721-203468dda5f3.gif" width="10%" alt="GIF">
 
-## 📚 Areas of Interest
- - Software Development
- - Machine Learning
- - Data Science
- - Data Analyst
- - Artificial Intelligence
+  </div>
+  
+  <div style="display: flex; gap: 15px;">
+    <a href="https://instagram.com/laismariae" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+    <a href="mailto:cmp.1a.lais.albino2003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <a href="https://www.linkedin.com/in/laiscrz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" alt="LinkedIn"></a> 
+  </div>
+</div>
+
 
 
 ## ⚡ Git Stats 
