@@ -10,7 +10,7 @@ Hello! My name is Lais, and I am an undergraduate student in Systems Analysis an
 
 <div align="center"> 
   <div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 20px;">
-    <img src="https://user-images.githubusercontent.com/74038190/243078871-08fa9f5b-dcb7-4f5e-8721-203468dda5f3.gif" width="15%" alt="GIF">
+    <img src="https://user-images.githubusercontent.com/74038190/243078871-08fa9f5b-dcb7-4f5e-8721-203468dda5f3.gif" width="20%" alt="GIF">
 
   </div>
   
