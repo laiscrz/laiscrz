@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00F6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Laís+Cruz;I'm+20+years+old;I+from+Brasil,+SP;I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-
 # 👩🏻‍💻 About Me
 
 Hello! My name is Lais, and I am an undergraduate student in Systems Analysis and Development at FIAP. I am passionate about technology, especially in the areas of data and artificial intelligence. Additionally, I have experience in software development and am always seeking new programming challenges to enhance my skills.
@@ -26,9 +25,9 @@ Hello! My name is Lais, and I am an undergraduate student in Systems Analysis an
 
 ## ⚡ Git Stats 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Laiscrz&show_icons=true&count_private=true&hide_border=true&title_color=FF00F6&icon_color=FF00F6&text_color=c9d1d9&bg_color=0d1117" alt="Lais Cruz github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Laiscrz&show_icons=true&count_private=true&hide_border=true&title_color=FF00F6&icon_color=FF00F6&text_color=c9d1d9&bg_color=0d1117" alt="Laís Cruz's github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laiscrz&layout=compact&hide_border=true&title_color=FF00F6&text_color=FFFFFF&bg_color=0d1117" />
-   <a href="https://github.com/laiscrz/laiscrz"><img alt="Lais Cruz's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=laiscrz&bg_color=RRGGBBAA&title_color=FF00F6&color=FF00F6&line=FF00F6&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+   <a href="https://github.com/laiscrz/laiscrz"><img alt="Lais Cruz's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=laiscrz&bg_color=RRGGBBAA&title_color=FF00F6&color=FF00F6&line=FF00F6&point=DEDEDE&hide_border=true&custom_title="Laís Cruz's Contribution Graph"/></a>
 </div>
 
 ---
