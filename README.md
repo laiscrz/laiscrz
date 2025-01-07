@@ -23,7 +23,7 @@ Hello! My name is Lais, and I am an undergraduate student in Systems Analysis an
 
 
 
-## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="20"> Git Stats 
+## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="40"> Git Stats 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Laiscrz&show_icons=true&count_private=true&hide_border=true&title_color=ff006f&icon_color=ff006f&text_color=c9d1d9&bg_color=0d1117" alt="Laís Cruz's github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laiscrz&layout=compact&hide_border=true&title_color=ff006f&text_color=FFFFFF&bg_color=0d1117" />
