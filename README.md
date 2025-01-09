@@ -27,14 +27,9 @@ Hello! My name is Lais, and I am an undergraduate student in Systems Analysis an
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Laiscrz&show_icons=true&count_private=true&hide_border=true&title_color=ff006f&icon_color=ff006f&text_color=c9d1d9&bg_color=0d1117" alt="Laís Cruz's github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laiscrz&layout=compact&hide_border=true&title_color=ff006f&text_color=FFFFFF&bg_color=0d1117" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=laiscrz&bg_color=0d1117&color=ff4b98&line=ff006f&point=ff4b98&area=true&hide_border=true" alt="activity-graph graph" />
 </div>
  
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=laiscrz&bg_color=0d1117&color=ff4b98&line=ff006f&point=ff4b98&area=true&hide_border=true" alt="activity-graph graph" />
-  <img width="61.5%"src="https://streak-stats.demolab.com?user=laiscrz&theme=transparent&border=ff006f&stroke=ff006f&fire=ff006f&ring=ff006f&currStreakNum=ff006f&sideNums=ff006f&currStreakLabel=ff006f&sideLabels=ff006f&dates=F7F7F7&excludeDaysLabel=ff006f&background=0D1117&date_format=M%20j%5B,%20Y%5D" alt="streak graph"  />
-  <img width="37.5%"src="https://github-profile-trophy.vercel.app?username=laiscrz&theme=radical&column=3&row=2&margin-w=5&margin-h=1&no-bg=false&no-frame=true" alt="trophy graph" />
-</div>
 
 ---
 
