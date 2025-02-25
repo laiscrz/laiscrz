@@ -1,8 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff006f&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff006f&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Laís+Cruz;I'm+20+years+old;I+from+São+Paulo,+BR;I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-
 # 👩🏻‍💻 About Me
 
 Hello! My name is Lais, and I am an undergraduate student in Systems Analysis and Development at FIAP. I am passionate about technology, especially in the areas of data and artificial intelligence. Additionally, I have experience in software development and am always seeking new programming challenges to enhance my skills.
