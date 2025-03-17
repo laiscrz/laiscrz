@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff006f&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff006f&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Laís+Cruz;I+from+São+Paulo,+BR;I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 # 👩🏻‍💻 About Me
 
 Hello! My name is Lais, and I am an undergraduate student in Systems Analysis and Development at FIAP. I am passionate about technology, especially in the areas of data and artificial intelligence. Additionally, I have experience in software development and am always seeking new programming challenges to enhance my skills.
@@ -12,7 +14,7 @@ Hello! My name is Lais, and I am an undergraduate student in Systems Analysis an
   </div>
   
   <div style="display: flex; gap: 15px;">
-    <a href="https://instagram.com/laismariae" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+    <a href="https://instagram.com/laiscrz_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
     <a href="mailto:cmp.1a.lais.albino2003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
     <a href="https://www.linkedin.com/in/laiscrz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" alt="LinkedIn"></a> 
   </div>
