@@ -4,7 +4,7 @@
 
 # 👩🏻‍💻 About Me
 
-Hello! My name is Lais, and I am an undergraduate student in Systems Analysis and Development at FIAP. I am passionate about technology, especially in the areas of data and artificial intelligence. Additionally, I have experience in software development and am always seeking new programming challenges to enhance my skills.
+Hello! My name is Lais, and I have a degree in Systems Analysis and Development from FIAP. I am passionate about technology, especially in the areas of data and artificial intelligence. In addition, I have a background in software development and am always looking for new programming challenges to enhance my skills.
 
 
 <div align="center"> 
