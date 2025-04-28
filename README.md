@@ -82,18 +82,6 @@ Hello! My name is Lais, and I have a degree in Systems Analysis and Development 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 
-
-##
-
-<div align="center">
-    <br>
-    <p style="font-size: 20px; font-weight: bold;">Visitors Count</p>  
-    <p>
-        <img src="https://profile-counter.glitch.me/{laiscrz}/count.svg" alt="Visitor Count" style="max-width: 100%; height: auto;"/>
-    </p> 
-    <br>
-</div>
-
 ##
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff006f&height=120&section=footer"/>
