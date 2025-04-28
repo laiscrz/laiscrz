@@ -13,10 +13,14 @@ Hello! My name is Lais, and I have a degree in Systems Analysis and Development 
 
   </div>
   
-  <div style="display: flex; gap: 15px;">
-    <a href="mailto:cmp.1a.lais.albino2003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-    <a href="https://www.linkedin.com/in/laiscrz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" alt="LinkedIn"></a> 
-  </div>
+<div style="display: flex; gap: 15px;">
+  <a href="mailto:cmp.1a.lais.albino2003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=ff006f" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/laiscrz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=ff006f" style="border-radius: 30px" alt="LinkedIn"></a> 
+  <a href="https://laiscrz.github.io/laiscrz-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/portfolio-%23FFFFFF?style=for-the-badge&logo=firefox&logoColor=white&color=ff006f" style="border-radius: 30px" alt="Portfolio">
+  </a>
+</div>
+
 </div>
 
 
