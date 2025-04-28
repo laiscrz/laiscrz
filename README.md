@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff006f&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Laís+Cruz;I+from+São+Paulo,+BR;I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-# 👩🏻‍💻 About Me
+## 👩🏻‍💻 About Me
 
 Hello! My name is Lais, and I have a degree in Systems Analysis and Development from FIAP. I am passionate about technology, especially in the areas of data and artificial intelligence. In addition, I have a background in software development and am always looking for new programming challenges to enhance my skills.
 
@@ -25,7 +25,7 @@ Hello! My name is Lais, and I have a degree in Systems Analysis and Development 
 
 
 
-# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="40"> Git Stats 
+## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="40"> Git Stats 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Laiscrz&show_icons=true&count_private=true&hide_border=true&title_color=ff006f&icon_color=ff006f&text_color=c9d1d9&bg_color=0d1117" alt="Laís Cruz's github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laiscrz&layout=compact&hide_border=true&title_color=ff006f&text_color=FFFFFF&bg_color=0d1117" />
