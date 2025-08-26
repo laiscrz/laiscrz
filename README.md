@@ -9,7 +9,7 @@ Hello! My name is Lais, and I have a degree in Systems Analysis and Development 
 
 <div align="center"> 
   <div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 20px;">
-    <img src="https://user-images.githubusercontent.com/74038190/243078871-08fa9f5b-dcb7-4f5e-8721-203468dda5f3.gif" width="20%" alt="GIF">
+    <img src="https://github.com/user-attachments/assets/29aaf10a-bdf6-4a66-9791-835df7f58eaa" width="40%" alt="GIF">
 
   </div>
   
